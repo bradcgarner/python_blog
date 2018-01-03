@@ -1,0 +1,6 @@
+Left off:
+https://courses.thinkful.com/pip-001v3/assignment/3.4.2
+Adding pagination
+
+Issue: flask_script not found
+
